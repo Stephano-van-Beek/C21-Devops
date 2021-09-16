@@ -1,0 +1,5 @@
+A = Activity
+B = Side Bar
+C = Editor Groups
+D = Panel
+E = Satus Bar
